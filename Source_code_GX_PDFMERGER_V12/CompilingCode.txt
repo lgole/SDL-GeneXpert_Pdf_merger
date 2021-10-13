@@ -1,0 +1,1 @@
+pyinstaller GeneXpert_SDL_fileformater.spec
